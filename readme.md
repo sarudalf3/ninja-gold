@@ -1,4 +1,4 @@
-#Django First steps - Ninja Gold
+# Django First steps - Ninja Gold
 
 In this exercise to send information using forms and sessions.
 It is a simple game, when you have 4 options: farm, cave, house and casino.
